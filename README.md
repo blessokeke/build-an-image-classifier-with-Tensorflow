@@ -28,9 +28,7 @@ This project contains three files that you will need to use:
   **Project_Image_Classifier_Project:** This is the development notebook for this project. 
   
   **predict.py:** This is the file that uses a trained network to predict the class for an input image.
-  
-  **visuals.py:** This Python script provides supplementary visualizations for the project. 
-  
+   
 ### Acknowledgments
 Many thanks to Udacity for giving me an opportunity to try out real world problems and thanks to the Udacity mentors for their help and the Data Scientists who have inspired and provided insights to me through Github and StackOverflow.
 
