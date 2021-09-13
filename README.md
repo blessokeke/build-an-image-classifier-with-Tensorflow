@@ -2,7 +2,7 @@
 
 In this project, I will train an image classifier to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice you'd train this classifier, then export it for use in your application. I'll be using [data](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) from  Oxford of 102 flower categories,  see a few examples below.
 
-<img src='assets/Flowers.png' width=500px>
+<img src='test_images/Flowers.png' width=500px>
 
 This project is broken down into multiple steps:
 
